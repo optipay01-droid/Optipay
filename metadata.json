@@ -1,0 +1,6 @@
+{
+  "name": "OptiPay",
+  "description": "Watch video ads, spin the lucky wheel, complete daily check-ins, and earn coin rewards for gift card payouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
